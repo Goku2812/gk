@@ -1,0 +1,50 @@
+[
+  {
+    "name": "ʜɪɢʜᴇʀメᴀɴɢᴇʟ",
+    "groupId": "120363022471418893@g.us",
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": false,
+    "antimarc": false,
+    "antiview": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "antiporn": false,
+    "listanegra": [],
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": " BIENVENIDO (A)\n_ESTAMOS ENCANTADOS DE TENERTE CON_ _NOSOTROS_\n\nEN ESTE GRUPO PUEDES ENCONTRAR:\n💖 *AMISTADES*\n😈 *DESMADRE*\n🤪 *COTORREO Y MAS*\n\n🚨 AVISO IMPORTANTE : \nPOR FAVOR LEE LAS REGLAS DEL GRUPO PARA QUE EVITES SER ELIMINADO Y TENER PROBLEMAS CON LOS ADMINS.\n _*REGLAS:*_\n#descrição#\n#numerodele#",
+        "legendasaiu": "UN BOT MENOS ADIOS 🤗\n#numerodele#"
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "BIENVENIDO (A)\n_ESTAMOS ENCANTADOS DE TENERTE CON_ _NOSOTROS_\n\nEN ESTE GRUPO PUEDES ENCONTRAR:\n💖 *AMISTADES*\n😈 *DESMADRE*\n🤪 *COTORREO Y MAS*\n\n🚨 AVISO IMPORTANTE : \nPOR FAVOR LEE LAS REGLAS DEL GRUPO PARA QUE EVITES SER ELIMINADO Y TENER PROBLEMAS CON LOS ADMINS.\n _*REGLAS:*_\n#descrição#\n#numerodele#",
+        "legendasaiu": "UN BOT MENOS ADIOS \n#numerodele#"
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": true,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]

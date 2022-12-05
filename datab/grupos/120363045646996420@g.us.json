@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Aaaaasaa",
+    "groupId": "120363045646996420@g.us",
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": false,
+    "antimarc": false,
+    "antiview": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "antiporn": false,
+    "listanegra": [],
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": " _BIENVENIDO (A)_\n_ESTAMOS ENCANTADOS DE TENERTE CON_ _NOSOTROS_\n\nEN ESTE GRUPO PUEDES ENCONTRAR:\n💖 *AMISTADES*\n😈 *DESMADRE*\n🤪 *COTORREO Y MAS*\n\n🚨 AVISO IMPORTANTE : \nPOR FAVOR LEE LAS REGLAS DEL GRUPO PARA QUE EVITES SER ELIMINADO Y TENER PROBLEMAS CON LOS ADMINS.\n _*REGLAS:*_\n#descrição#\n#numerodele#",
+        "legendasaiu": "un bot menos\n#numerodele#"
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": null
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]
